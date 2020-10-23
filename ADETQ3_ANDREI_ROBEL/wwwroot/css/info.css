@@ -1,0 +1,66 @@
+body{
+    background-image: linear-gradient(#ecff83, #db6700);
+}
+.about {
+    display: block;
+    margin-left: 20px;
+    margin-top: 16px;
+    color: orangered;
+    text-align: justify;
+    padding-right: 10px;
+    text-indent: 5px;
+    font-size: 15px;
+    font-family: 'Cambria';
+    
+}
+
+.formbox1 {
+    width: 320px;
+    height: 400px;
+    position: absolute;
+    overflow: hidden;
+    margin: auto;
+    padding: 25px;
+    top: 100px;
+    left: 200px;
+    box-shadow: 0 5px 15px rgb(0, 0, 0);
+}
+
+.about2 {
+    display: block;
+    margin-left: 20px;
+    margin-top: 16px;
+    color: orangered;
+    text-align: justify;
+    padding-right: 10px;
+    padding-top: 1px;
+    text-indent: 5px;
+    font-size: 13px;
+    font-family: 'Cambria';
+}
+
+.formbox2 {
+    width: 320px;
+    height: 400px;
+    position: absolute;
+    overflow: hidden;
+    margin: auto;
+    padding: 25px;
+    top: 100px;
+    right: 200px;
+    box-shadow: 0 5px 15px rgb(0, 0, 0);
+}
+p {
+    margin-left:220px;
+    margin-right: 220px;
+    margin-top:320px;
+    text-align: justify;
+    font-family:tahoma;
+    font-size: 13px;
+    color:orangered;
+
+
+
+}
+
+

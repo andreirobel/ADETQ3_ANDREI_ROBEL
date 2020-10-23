@@ -1,0 +1,43 @@
+
+
+
+.subject {
+    display: block;
+    margin-left: 20px;
+    margin-top: 16px;
+    color: orangered;
+    text-align: center;
+    padding-right: 10px;
+    text-indent: 10px;
+    font-size: 30px;
+    font-family: Cambria;
+    text-align: center;
+  
+}
+
+.formbox {
+    width: 600px;
+    height: 170px;
+    position: absolute;
+    overflow: hidden;
+    text-align: center;
+    margin: auto;
+    padding: 25px;
+    top: 170px;
+    left: 340px;
+    box-shadow: 0 5px 15px orangered;
+    
+}
+p {
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 320px;
+    text-align: justify;
+    font-family: tahoma;
+    font-size: 13px;
+    color: orangered;
+}
+b{
+    color:orangered;
+}
+
